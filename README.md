@@ -1,6 +1,6 @@
 # simple-async-logic
 
-异步逻辑执行
+异步逻辑语法执行
 
 ## 安装
 
